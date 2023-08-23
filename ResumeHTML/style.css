@@ -1,0 +1,26 @@
+h1{
+    color: rebeccapurple;
+}
+.green-text{
+    color: green;
+}
+* {
+    text-align: center;
+}
+img {
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+#crimson {
+    color: crimson;
+}
+html {
+    background-color: cyan;
+}
+#experience{
+    color: dodgerblue;
+}
+li{
+    text-align: left;
+}
