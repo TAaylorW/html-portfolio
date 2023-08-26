@@ -10,17 +10,27 @@ h1{
 img {
     float: left;
     height: 200px;
-    width: 200px;
+    width: 150px;
+    text-align: justify;
 }
 #crimson {
     color: crimson;
 }
 html {
-    background-color: cyan;
+    background-color: black
 }
 #experience{
-    color: dodgerblue;
+    color:royalblue
 }
 li{
     text-align: left;
+}
+.developer {
+    color:violet;
+}
+.powershell {
+    color: lime;
+}
+.computer {
+    color: chartreuse;
 }
